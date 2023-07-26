@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>table4</title>
+
+</head>
+<body>
+	<table border="solid" width="600">
+	<tr>
+		
+		<td rowspan="2"><center>a</td>
+		<td>b</td>
+		<td rowspan="3"><center>d</td>
+		<td colspan="2"><center>e</td>
+		<td>f</td>
+	
+	</tr>
+		
+	<tr>
+		<td>c</td>
+		<td rowspan="2"><center>g</td>
+		<td rowspan="2"><center>h</td>
+		<td rowspan="2"><center>i</td>
+	</tr>
+	<tr>
+		<td colspan="2"><center>j</td>
+
+	</tr>
+	<tr>
+		<td colspan="3"><center>k</td>
+		<td>l</td>
+		<td colspan="2"><center>m</td>
+	</tr>
+	
+	</table>
+</body>
+</html>
